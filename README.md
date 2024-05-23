@@ -5,10 +5,4 @@
 
 
 ### Built With
-* [![SQL][MySQL]][SQL-url]
-* [![Next][Next.js]][Next-url]
-
-
-
-[SQL-url]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
